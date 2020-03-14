@@ -1,7 +1,6 @@
-# pwa-server
-Server App for the PWA Workshop
+## How to Use
+You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodejs.org) and go through the installation steps.
 
-Open your terminal and install and start the server:
+Once Node.js is installed, open your command prompt or terminal and **navigate into this project folder**. There, run `npm install` to install all required dependencies.
 
-npm install
-npm start 
+Finally, run `npm start` or `yarn start` to start the development server and visit [localhost:3000](http://localhost:3000) to see the running application.
